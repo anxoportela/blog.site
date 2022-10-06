@@ -3,4 +3,4 @@ title = "Blog"
 slug = "posts"
 +++
 
-Nothing to see here... Move along!
+Nada que ver aquí... Vuelve en otro momento!
