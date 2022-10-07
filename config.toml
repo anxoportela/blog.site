@@ -77,19 +77,25 @@ customJS = []
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
 childsrc = ["'self'"]
-fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
+fontsrc = ["'self'", 
+"https://fonts.gstatic.com", 
+"https://cdn.jsdelivr.net/"
+]
 formaction = [
   "'self'",
-  "https://docs.google.com/forms/"
+  "https://docs.google.com/"
   ]
 framesrc = [
   "'self'",
-  "https://disqus.com/"]
+  "https://disqus.com/",
+  "https://docs.google.com/"
+  ]
 imgsrc = [
   "'self'",
   "https://referrer.disqus.com/",
   "https://c.disquscdn.com/",
-  "https://cdn.viglink.com/"
+  "https://cdn.viglink.com/",
+  "https://docs.google.com/"
   ]
 objectsrc = ["'none'"]
 stylesrc = [
@@ -97,7 +103,8 @@ stylesrc = [
   "'unsafe-inline'",
   "https://fonts.googleapis.com/",
   "https://cdn.jsdelivr.net/",
-  "https://c.disquscdn.com/"
+  "https://c.disquscdn.com/",
+  "https://docs.google.com/"
 ]
 scriptsrc = [
   "'self'",
@@ -106,16 +113,23 @@ scriptsrc = [
   "https://cdn.jsdelivr.net/",
   "https://https-anxoportela-github-io.disqus.com/",
   "https://disqus.com/",
-  "https://c.disquscdn.com/"
+  "https://c.disquscdn.com/",
+  "https://docs.google.com/"
 ]
 prefetchsrc = [
   "'self'",
   "https://https-anxoportela-github-io.disqus.com/",
   "https://disqus.com/",
-  "https://c.disquscdn.com/"
+  "https://c.disquscdn.com/",
+  "https://docs.google.com/"
   ]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
-connectsrc = ["'self'", "https://www.google-analytics.com", "https://links.services.disqus.com/"]
+connectsrc = [
+  "'self'",
+  "https://www.google-analytics.com", 
+  "https://links.services.disqus.com/",
+  "https://docs.google.com/"
+  ]
 
 [taxonomies]
 category = "categories"
