@@ -99,16 +99,18 @@ scriptsrc = [
   "'unsafe-inline'",
   "https://www.google-analytics.com",
   "https://cdn.jsdelivr.net/",
-  "https://https-anxoportela-github-io.disqus.com/",
-  "https://disqus.com/"
+  "https://https-anxoportela-github-io.disqus.com/embed.js",
+  "https://disqus.com/",
+  "https://c.disquscdn.com/"
 ]
 prefetchsrc = [
   "'self'",
-  "https://https-anxoportela-github-io.disqus.com/",
-  "https://disqus.com/"
+  "https://https-anxoportela-github-io.disqus.com/embed.js",
+  "https://disqus.com/",
+  "https://c.disquscdn.com/"
   ]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
-connectsrc = ["'self'", "https://www.google-analytics.com", "https://https-anxoportela-github-io.disqus.com/"]
+connectsrc = ["'self'", "https://www.google-analytics.com", "https://https-anxoportela-github-io.disqus.com/embed.js"]
 
 [taxonomies]
 category = "categories"
