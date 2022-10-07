@@ -108,13 +108,13 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/anxoportela/"
+url = "https://github.com/anxoportela"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/anxoportela/"
+url = "https://www.linkedin.com/in/anxoportela"
 
 [[params.social]]
 name = "RSS"
