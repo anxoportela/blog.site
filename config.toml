@@ -85,7 +85,9 @@ framesrc = [
 imgsrc = [
   "'self'",
   "https://referrer.disqus.com/",
-  "https://c.disquscdn.com/"]
+  "https://c.disquscdn.com/",
+  "https://cdn.viglink.com/"
+  ]
 objectsrc = ["'none'"]
 stylesrc = [
   "'self'",
