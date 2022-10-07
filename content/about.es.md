@@ -1,5 +1,6 @@
 +++
 title = "Acerca de"
+slug = "about"
 description = "About page"
 date = "2022-10-06"
 author = "Anxo Portela"

@@ -1,6 +1,9 @@
 +++
 title = "Contact"
 slug = "contact"
+description = "Contact page"
+date = "2022-10-07"
+author = "Anxo Portela"
 +++
 
 {{< rawhtml >}}
