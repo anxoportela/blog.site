@@ -9,7 +9,7 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
+disqusShortname = "https-anxoportela-github-io"
 
 [params]
 author = "Anxo Portela-Insua Blanco"
@@ -149,7 +149,7 @@ url = "contact/"
 
 [languages.es]
 languageName = ":es:"
-title = "Inicio"
+title = "Portfolio"
 
 [languages.es.params]
 author = "Anxo Portela-Insua Blanco"
