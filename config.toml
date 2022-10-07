@@ -78,7 +78,10 @@ customJS = []
 [params.csp]
 childsrc = ["'self'"]
 fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
-formaction = ["'self'"]
+formaction = [
+  "'self'",
+  "https://docs.google.com/forms/"
+  ]
 framesrc = [
   "'self'",
   "https://disqus.com/"]
