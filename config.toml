@@ -1,5 +1,5 @@
 baseURL = "https://anxoportela.github.io/"
-title = "Home"
+title = "Portfolio"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
