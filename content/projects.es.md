@@ -6,4 +6,4 @@ date = "2022-10-07"
 author = "Anxo Portela"
 +++
 
-Nada que ver aquí... Vuelve en otro momento!
+Cada tutorial realizado llevará asociado un proyecto que se irá listando en esta página, cada uno de ellos contará con su respectivo enlace a [GitHub](https://github.com/), en el que se mostrará el funcionamiento de las diversas practicas.

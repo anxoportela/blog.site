@@ -15,15 +15,15 @@ enableEmoji = true
 author = "Anxo Portela-Insua Blanco"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Anxo Portela's personal website"
-keywords = "blog,developer,personal,qa,automation,selenium"
+keywords = "blog,developer,personal,qa,automation,selenium,postman,jmeter,soapui,cucumber"
 info = ["QA Automation Engineer"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/anxoportela/anxoportela.github.io/commit"
-enableGitInfo = true
+#commit = "https://github.com/anxoportela/anxoportela.github.io/commit"
+#enableGitInfo = true
 # Right To Left, shift content direction for languagues such as Arabic
 rtl = false
 # Specify light/dark colorscheme
@@ -176,7 +176,7 @@ weight = 2
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact"
 weight = 5
 url = "contact/"
 
@@ -188,7 +188,7 @@ title = "Portfolio"
 author = "Anxo Portela-Insua Blanco"
 info = "Ingeniero QA Automatización"
 description = "Sitio personal de Anxo Portela"
-keywords = "blog,desarrollador,personal,qa,automatización,selenium"
+keywords = "blog,desarrollador,personal,qa,automatización,selenium,postman,jmeter,soapui,cucumber"
 
 [[languages.es.menu.main]]
 name = "Acerca de"
