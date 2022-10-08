@@ -80,18 +80,21 @@ childsrc = ["'self'"]
 fontsrc = ["'self'", 
 "https://fonts.gstatic.com", 
 "https://cdn.jsdelivr.net/",
-  "https://www.googletagmanager.com/"
+"https://www.googletagmanager.com/",
+"*.google-analytics.com"
 ]
 formaction = [
   "'self'",
   "https://docs.google.com/",
-  "https://www.googletagmanager.com/"
+  "https://www.googletagmanager.com/",
+  "*.google-analytics.com"
   ]
 framesrc = [
   "'self'",
   "https://disqus.com/",
   "https://docs.google.com/",
-  "https://www.googletagmanager.com/"
+  "https://www.googletagmanager.com/",
+ "*.google-analytics.com"
   ]
 imgsrc = [
   "'self'",
@@ -99,7 +102,8 @@ imgsrc = [
   "https://c.disquscdn.com/",
   "https://cdn.viglink.com/",
   "https://docs.google.com/",
-  "https://www.googletagmanager.com/"
+  "https://www.googletagmanager.com/",
+  "*.google-analytics.com"
   ]
 objectsrc = ["'none'"]
 stylesrc = [
@@ -109,7 +113,8 @@ stylesrc = [
   "https://cdn.jsdelivr.net/",
   "https://c.disquscdn.com/",
   "https://docs.google.com/",
-  "https://www.googletagmanager.com/"
+  "https://www.googletagmanager.com/",
+  "*.google-analytics.com"
 ]
 scriptsrc = [
   "'self'",
@@ -120,7 +125,8 @@ scriptsrc = [
   "https://disqus.com/",
   "https://c.disquscdn.com/",
   "https://docs.google.com/",
-  "https://www.googletagmanager.com/"
+  "https://www.googletagmanager.com/",
+  "*.google-analytics.com"
 ]
 prefetchsrc = [
   "'self'",
@@ -128,7 +134,8 @@ prefetchsrc = [
   "https://disqus.com/",
   "https://c.disquscdn.com/",
   "https://docs.google.com/",
-  "https://www.googletagmanager.com/"
+  "https://www.googletagmanager.com/",
+  "*.google-analytics.com"
   ]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
 connectsrc = [
@@ -136,7 +143,8 @@ connectsrc = [
   "https://www.google-analytics.com", 
   "https://links.services.disqus.com/",
   "https://docs.google.com/",
-  "https://www.googletagmanager.com/"
+  "https://www.googletagmanager.com/",
+  "*.google-analytics.com"
   ]
 
 [taxonomies]
