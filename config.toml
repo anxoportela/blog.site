@@ -22,7 +22,7 @@ avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
-#commit = "https://github.com/anxoportela/anxoportela.github.io/commit"
+commit = "https://github.com/anxoportela/anxoportela.github.io/commit"
 #enableGitInfo = true
 # Right To Left, shift content direction for languagues such as Arabic
 rtl = false
@@ -67,8 +67,8 @@ customJS = []
 # serverURL = "analytics.example.com" # For cloud-hosting, use provided URL, e.g. example.matomo.cloud
 
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
-# [params.googleTagManager]
-# id = "gid"
+[params.googleTagManager]
+id = "G-FRXS7FM4QF"
 
 # If you want to use Application Insights(https://azure.com/) for analytics, add this section
 # [params.applicationInsights]
@@ -79,23 +79,27 @@ customJS = []
 childsrc = ["'self'"]
 fontsrc = ["'self'", 
 "https://fonts.gstatic.com", 
-"https://cdn.jsdelivr.net/"
+"https://cdn.jsdelivr.net/",
+  "https://www.googletagmanager.com/"
 ]
 formaction = [
   "'self'",
-  "https://docs.google.com/"
+  "https://docs.google.com/",
+  "https://www.googletagmanager.com/"
   ]
 framesrc = [
   "'self'",
   "https://disqus.com/",
-  "https://docs.google.com/"
+  "https://docs.google.com/",
+  "https://www.googletagmanager.com/"
   ]
 imgsrc = [
   "'self'",
   "https://referrer.disqus.com/",
   "https://c.disquscdn.com/",
   "https://cdn.viglink.com/",
-  "https://docs.google.com/"
+  "https://docs.google.com/",
+  "https://www.googletagmanager.com/"
   ]
 objectsrc = ["'none'"]
 stylesrc = [
@@ -104,7 +108,8 @@ stylesrc = [
   "https://fonts.googleapis.com/",
   "https://cdn.jsdelivr.net/",
   "https://c.disquscdn.com/",
-  "https://docs.google.com/"
+  "https://docs.google.com/",
+  "https://www.googletagmanager.com/"
 ]
 scriptsrc = [
   "'self'",
@@ -114,21 +119,24 @@ scriptsrc = [
   "https://https-anxoportela-github-io.disqus.com/",
   "https://disqus.com/",
   "https://c.disquscdn.com/",
-  "https://docs.google.com/"
+  "https://docs.google.com/",
+  "https://www.googletagmanager.com/"
 ]
 prefetchsrc = [
   "'self'",
   "https://https-anxoportela-github-io.disqus.com/",
   "https://disqus.com/",
   "https://c.disquscdn.com/",
-  "https://docs.google.com/"
+  "https://docs.google.com/",
+  "https://www.googletagmanager.com/"
   ]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
 connectsrc = [
   "'self'",
   "https://www.google-analytics.com", 
   "https://links.services.disqus.com/",
-  "https://docs.google.com/"
+  "https://docs.google.com/",
+  "https://www.googletagmanager.com/"
   ]
 
 [taxonomies]
