@@ -16,10 +16,10 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
         <input type="text" placeholder="Name or Alias" class="form-input" name="entry.2005620554" required>
 
   <label>Email</label>
-        <input type="email" placeholder="Email address" class="form-input" name="entry.1045781291" required>
+        <input type="email" placeholder="Valid email address" class="form-input" name="entry.1045781291" required>
 
    <label>Subject</label>
-        <input type="text" placeholder="Subject" class="form-input" name="entry.1065046570" required>
+        <input type="text" placeholder="Message subject" class="form-input" name="entry.1065046570" required>
 
    <label>Message</label>
         <textarea rows="5" placeholder="Write your message ..." class="form-input" name="entry.839337160" required></textarea>
