@@ -8,5 +8,5 @@ author = "Anxo Portela"
 
 Leeré tu mensaje lo antes posible y me pondré en contacto contigo.
 
-Un saludo y gracias.
+Un saludo.
 

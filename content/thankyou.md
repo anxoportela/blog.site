@@ -8,4 +8,4 @@ author = "Anxo Portela"
 
 I'll read your message as soon as possible and contact you.
 
-Greetings and thank you.
+Greetings.
