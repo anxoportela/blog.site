@@ -1,6 +1,6 @@
 +++
 title = "Contacto"
-slug = "contact"
+slug = "contacto"
 description = "Página de contacto"
 date = "2022-10-07"
 author = "Anxo Portela"
