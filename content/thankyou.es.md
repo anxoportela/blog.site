@@ -1,4 +1,5 @@
 +++
+draft = false
 title = "Gracias"
 slug = "thankyou"
 description = "Página de gracias"

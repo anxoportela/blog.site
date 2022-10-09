@@ -1,4 +1,5 @@
 +++
+draft = false
 title = "Thankyou"
 slug = "thankyou"
 description = "Thank you page"

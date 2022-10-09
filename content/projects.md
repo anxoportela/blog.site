@@ -1,4 +1,5 @@
 +++
+draft = false
 title = "Projects"
 slug = "projects"
 description = "Projects page"

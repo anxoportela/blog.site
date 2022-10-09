@@ -1,8 +1,9 @@
 +++
+draft = false
 title = "Acerca de"
 slug = "about"
 description = "Un poco sobre mi"
-date = "2022-10-06"
+date = "2022-10-07"
 author = "Anxo Portela"
 +++
 

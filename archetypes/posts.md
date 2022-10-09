@@ -4,5 +4,8 @@ title = ""
 slug = ""
 description = ""
 date = {{ .Date }}
-author = ""
+authors = []
+tags = []
+categories = []
+series = []
 +++

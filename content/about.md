@@ -1,8 +1,9 @@
 +++
+draft = false
 title = "About"
 slug = "about"
 description = "About page"
-date = "2022-10-06"
+date = "2022-10-07"
 author = "Anxo Portela"
 +++
 
