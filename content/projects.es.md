@@ -1,6 +1,6 @@
 +++
 title = "Proyectos"
-slug = "proyectos"
+slug = "projects"
 description = "Página de proyectos"
 date = "2022-10-07"
 author = "Anxo Portela"

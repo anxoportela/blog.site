@@ -3,10 +3,10 @@ draft = false
 date = 2022-10-08T19:22:33+02:00
 title = "Empezando una nueva aventura"
 description = "Estableciendo las bases de lo que serán los primeros articulos y proyectos a publicar"
-slug = "empezando-nueva-aventura"
+slug = "starting-new-adventure"
 authors = ["Anxo Portela-Insua Blanco"]
-tags = ["blog","noticias","social","postman","docker"]
-categories = ["Blog","Noticias"]
+tags = ["blog","news","social","postman","docker"]
+categories = ["Blog","News"]
 +++
 
 Hola a tod@s, a continuación expondré lo que serán los primeros articulos y proyectos en los que me quiero centrar al comenzar esta nueva aventura escribiendo mi propio blog.

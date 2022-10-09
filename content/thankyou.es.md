@@ -1,6 +1,6 @@
 +++
 title = "Gracias"
-slug = "gracias"
+slug = "thankyou"
 description = "Página de gracias"
 date = "2022-10-07"
 author = "Anxo Portela"
