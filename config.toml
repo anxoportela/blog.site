@@ -19,7 +19,7 @@ keywords = "blog,developer,personal,qa,automation,selenium,postman,jmeter,soapui
 info = ["QA Automation Engineer"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-dateFormat = "January 2, 2006"
+dateFormat = "2006-01-02"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/anxoportela/anxoportela.github.io/commit"
@@ -84,68 +84,68 @@ fontsrc = ["'self'",
 "*.google-analytics.com"
 ]
 formaction = [
-  "'self'",
-  "https://docs.google.com/",
-  "https://www.googletagmanager.com/",
-  "*.google-analytics.com"
-  ]
+"'self'",
+"https://docs.google.com/",
+"https://www.googletagmanager.com/",
+"*.google-analytics.com"
+]
 framesrc = [
-  "'self'",
-  "https://disqus.com/",
-  "https://docs.google.com/",
-  "https://www.googletagmanager.com/",
- "*.google-analytics.com"
-  ]
+"'self'",
+"https://disqus.com/",
+"https://docs.google.com/",
+"https://www.googletagmanager.com/",
+"*.google-analytics.com"
+]
 imgsrc = [
-  "'self'",
-  "https://referrer.disqus.com/",
-  "https://c.disquscdn.com/",
-  "https://cdn.viglink.com/",
-  "https://docs.google.com/",
-  "https://www.googletagmanager.com/",
-  "*.google-analytics.com"
-  ]
+"'self'",
+"https://referrer.disqus.com/",
+"https://c.disquscdn.com/",
+"https://cdn.viglink.com/",
+"https://docs.google.com/",
+"https://www.googletagmanager.com/",
+"*.google-analytics.com"
+ ]
 objectsrc = ["'none'"]
 stylesrc = [
-  "'self'",
-  "'unsafe-inline'",
-  "https://fonts.googleapis.com/",
-  "https://cdn.jsdelivr.net/",
-  "https://c.disquscdn.com/",
-  "https://docs.google.com/",
-  "https://www.googletagmanager.com/",
-  "*.google-analytics.com"
+"'self'",
+"'unsafe-inline'",
+"https://fonts.googleapis.com/",
+"https://cdn.jsdelivr.net/",
+"https://c.disquscdn.com/",
+"https://docs.google.com/",
+"https://www.googletagmanager.com/",
+"*.google-analytics.com"
 ]
 scriptsrc = [
-  "'self'",
-  "'unsafe-inline'",
-  "https://www.google-analytics.com",
-  "https://cdn.jsdelivr.net/",
-  "https://https-anxoportela-github-io.disqus.com/",
-  "https://disqus.com/",
-  "https://c.disquscdn.com/",
-  "https://docs.google.com/",
-  "https://www.googletagmanager.com/",
-  "*.google-analytics.com"
+"'self'",
+"'unsafe-inline'",
+"https://www.google-analytics.com",
+"https://cdn.jsdelivr.net/",
+"https://https-anxoportela-github-io.disqus.com/",
+"https://disqus.com/",
+"https://c.disquscdn.com/",
+"https://docs.google.com/",
+"https://www.googletagmanager.com/",
+"*.google-analytics.com"
 ]
 prefetchsrc = [
-  "'self'",
-  "https://https-anxoportela-github-io.disqus.com/",
-  "https://disqus.com/",
-  "https://c.disquscdn.com/",
-  "https://docs.google.com/",
-  "https://www.googletagmanager.com/",
-  "*.google-analytics.com"
-  ]
+"'self'",
+"https://https-anxoportela-github-io.disqus.com/",
+"https://disqus.com/",
+"https://c.disquscdn.com/",
+"https://docs.google.com/",
+"https://www.googletagmanager.com/",
+"*.google-analytics.com"
+]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
 connectsrc = [
-  "'self'",
-  "https://www.google-analytics.com", 
-  "https://links.services.disqus.com/",
-  "https://docs.google.com/",
-  "https://www.googletagmanager.com/",
-  "*.google-analytics.com"
-  ]
+"'self'",
+"https://www.google-analytics.com", 
+"https://links.services.disqus.com/",
+"https://docs.google.com/",
+"https://www.googletagmanager.com/",
+"*.google-analytics.com"
+]
 
 [taxonomies]
 category = "categories"
